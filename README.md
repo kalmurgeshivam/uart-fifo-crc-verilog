@@ -35,5 +35,9 @@ data_in  = A5
 data_out = A5
 error    = 0
 ```
-
 This confirms successful data transmission and error-free communication.
+
+![Simulation Waveform]
+(Simulation_Waveform.png)
+
+
